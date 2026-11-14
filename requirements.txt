@@ -1,0 +1,5 @@
+crewai>=0.100.0
+crewai-tools>=0.36.0
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+litellm>=1.60.0
