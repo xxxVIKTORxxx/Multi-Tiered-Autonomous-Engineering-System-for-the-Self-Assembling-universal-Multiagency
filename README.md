@@ -12,7 +12,7 @@ A <b>Multi-Tiered Autonomous Engineering System for a Self-Assembling Universal 
 <br>
 #### Core Architectural Tiers:
 <b>• Meta-Orchestration Tier (Tier 0 - Strategy & Governance)</b><br>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;	• Acts as the top-level goal interpreter and system supervisor.</p><br>
+&nbsp;&nbsp;&nbsp;&nbsp;	• Acts as the top-level goal interpreter and system supervisor.<br>
 	• Translates high-level user intents or system requirements into formal constraints, resource allocations, and high-level architectural blueprints.<br>
 <br><b>• Dynamic Agent Synthesis Tier (Tier 1 - Self-Assembly & Specialization)</b><br>
 	• Responsible for instantiating, cloning, or retiring specialized AI agents based on immediate operational needs.<br>
