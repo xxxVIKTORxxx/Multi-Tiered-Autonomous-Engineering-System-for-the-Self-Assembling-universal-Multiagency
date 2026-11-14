@@ -11,8 +11,7 @@
 A <b>Multi-Tiered Autonomous Engineering System for a Self-Assembling Universal Multi-Agent System</b> combines layered control architectures, Large Language Models (LLMs), and dynamic agent-generation frameworks to build, deploy, and evolve software and operational pipelines on the fly. 
 <br>
 #### Core Architectural Tiers
-<br>
-<br><b>• Meta-Orchestration Tier (Tier 0 - Strategy & Governance)</b><br>
+<b>• Meta-Orchestration Tier (Tier 0 - Strategy & Governance)</b><br>
 	• Acts as the top-level goal interpreter and system supervisor.<br>
 	• Translates high-level user intents or system requirements into formal constraints, resource allocations, and high-level architectural blueprints.<br>
 <br><b>• Dynamic Agent Synthesis Tier (Tier 1 - Self-Assembly & Specialization)</b><br>
