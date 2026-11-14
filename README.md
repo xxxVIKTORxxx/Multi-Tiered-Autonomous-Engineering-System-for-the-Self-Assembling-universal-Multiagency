@@ -1,4 +1,4 @@
-# The Multi-Tiered Autonomous Engineering System for the Self-Assmbling universal Multiagency
+# The Multi-Tiered Autonomous Engineering System for the Self-Assembling Universal Multiagency
 ### This makes the multiagent's orchesters to be self-assebled 
 ### by an autonomous agentic Architect 
 ### for universal adeption to an any of a user's task.
