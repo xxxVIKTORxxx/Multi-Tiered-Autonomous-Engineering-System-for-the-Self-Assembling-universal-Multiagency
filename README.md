@@ -7,7 +7,7 @@
 <i>Just vibecoded, without any tests</i><br>
 <i><b>not debugged at all</i></b>
 <br>_______________<br>
-<br>
+<br><br>
 A <b>Multi-Tiered Autonomous Engineering System for a Self-Assembling Universal Multi-Agent System</b> combines layered control architectures, Large Language Models (LLMs), and dynamic agent-generation frameworks to build, deploy, and evolve software and operational pipelines on the fly. 
 <br>
 #### Core Architectural Tiers:
